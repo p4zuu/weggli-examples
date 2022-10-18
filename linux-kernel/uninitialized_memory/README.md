@@ -1,4 +1,4 @@
-# Collections of query spotting uninitialized memory in the kernel
+# Collections of queries spotting uninitialized memory in the kernel
 
 | CVE            | Impact                | Query                          | Fix                                                                                                                                   |
 |:--------------:|:---------------------:|:------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|

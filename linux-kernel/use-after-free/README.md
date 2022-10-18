@@ -1,4 +1,4 @@
-# Collections of query spotting double-frees
+# Collection of queries spotting use-after-frees
 
 | CVE            | Impact                | Fix                                                                                                                                   |
 |:--------------:|:---------------------:|---------------------------------------------------------------------------------------------------------------------------------------|
